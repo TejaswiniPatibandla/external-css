@@ -1,0 +1,17 @@
+body{
+background-color:brown;
+}
+p{color:white;
+font-size:20px;
+}
+.first{background-color:yellow;
+border-radius:30px;
+text-align:center;
+color:blue;
+border:3px solid white;
+padding:15px;
+}
+h2{
+background-color:brown;
+}
+ 
